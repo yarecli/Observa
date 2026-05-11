@@ -1,0 +1,71 @@
+[
+  {
+    "model": "clients.client",
+    "pk": "11111111-1111-4111-8111-111111111111",
+    "fields": {
+      "first_name": "Ava",
+      "last_name": "Martinez",
+      "date_of_birth": "2013-05-14",
+      "diagnosis": "Autism Spectrum Disorder",
+      "gender": "Female",
+      "preferred_language": "English",
+      "phone": "555-0101",
+      "street_address": "120 Oak Street",
+      "city": "Raleigh",
+      "state": "NC",
+      "postal_code": "27601",
+      "medical_record_number": "MRN-1001",
+      "service_region": "Triangle East",
+      "site_code": "CLINIC-A",
+      "placement": "Group Home 1",
+      "is_active": true,
+      "created_at": "2026-04-06T12:00:00Z"
+    }
+  },
+  {
+    "model": "clients.client",
+    "pk": "22222222-2222-4222-8222-222222222222",
+    "fields": {
+      "first_name": "Noah",
+      "last_name": "Johnson",
+      "date_of_birth": "2011-11-03",
+      "diagnosis": "Developmental Delay",
+      "gender": "Male",
+      "preferred_language": "English",
+      "phone": "555-0102",
+      "street_address": "88 Pine Ave",
+      "city": "Durham",
+      "state": "NC",
+      "postal_code": "27701",
+      "medical_record_number": "MRN-1002",
+      "service_region": "Triangle West",
+      "site_code": "CLINIC-B",
+      "placement": "2nd Ave Residence",
+      "is_active": true,
+      "created_at": "2026-04-06T12:05:00Z"
+    }
+  },
+  {
+    "model": "clients.client",
+    "pk": "33333333-3333-4333-8333-333333333333",
+    "fields": {
+      "first_name": "Liam",
+      "last_name": "Carter",
+      "date_of_birth": "2010-02-20",
+      "diagnosis": "",
+      "gender": "Male",
+      "preferred_language": "Spanish",
+      "phone": "555-0103",
+      "street_address": "450 Elm Rd",
+      "city": "Cary",
+      "state": "NC",
+      "postal_code": "27511",
+      "medical_record_number": "MRN-1003",
+      "service_region": "Triangle South",
+      "site_code": "IN-HOME",
+      "placement": "Family Home",
+      "is_active": false,
+      "created_at": "2026-04-06T12:10:00Z"
+    }
+  }
+]
